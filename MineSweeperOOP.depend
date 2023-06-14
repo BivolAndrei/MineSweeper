@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1683724801 source:c:\users\andrei\documents\minesweeperoop\main.cpp
+	<iostream>
+	"minesweeper.h"
+	"MineSweeper.h"
+
+1686641872 c:\users\andrei\documents\minesweeperoop\minesweeper.h
+	<iostream>
+	<cstdlib>
+	<chrono>
+
+1686644155 source:c:\users\andrei\documents\minesweeperoop\minesweeper.cpp
+	"Minesweeper.h"
+	<iostream>
+	<cstdlib>
+	<chrono>
+
+1686683159 source:c:\users\andrei\desktop\minesweeperoop\minesweeper.cpp
+	"Minesweeper.h"
+	"BoardHandler.h"
+	<iostream>
+	<cstdlib>
+	<chrono>
+
+1686683125 c:\users\andrei\desktop\minesweeperoop\minesweeper.h
+	"BoardHandler.h"
+	<iostream>
+	<cstdlib>
+	<chrono>
+
+1686679492 source:c:\users\andrei\desktop\minesweeperoop\main.cpp
+	<iostream>
+	"Minesweeper.h"
+
+1686726183 c:\users\andrei\desktop\minesweeperoop\include\boardhandler.h
+
+1686725995 source:c:\users\andrei\desktop\minesweeperoop\src\boardhandler.cpp
+	"BoardHandler.h"
+	<iostream>
+	<cstdlib>
+
+1686681141 c:\users\andrei\desktop\minesweeperoop\boardhandler.h
+
+1686683125 c:\users\andrei\desktop\minesweeperoop\include\minesweeper.h
+	"BoardHandler.h"
+	<iostream>
+	<cstdlib>
+	<chrono>
+
